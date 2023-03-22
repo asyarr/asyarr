@@ -2,10 +2,10 @@
 
 # 💫 About me:
 
-- 🔭 I’m currently working on Delfiss Engenaharia Ltda as an Intern.
-- 🌱 I’m currently learning Web Development and Physics
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love animals and I"m a vegetarian 😄
+- 🔭 I’m currently working on Delfiss Engenaharia Ltda as an Intern;
+- 🌱 I’m currently learning Web Development and Python;
+- 😄 Pronouns: She/Her;
+- ⚡ Fun fact: I love animals and I"m a vegetarian 😄;
 - 🌱 HTML5, CSS, JavaScript, Python, MySQL;
 - 📫 LinkedIn and Instagram are available above. <br>
 
