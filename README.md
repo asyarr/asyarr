@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning R and PoweQuery;
 - 😄 Pronouns: She/Her;
 - ⚡ Fun fact: I love animals and I"m a vegetarian 😄;
-- 🌱 HTML5, CSS, Python, Excel, PowerBI;
+- 🌱 PowerBI, Python, Excel, R, Tableau, HTML5, CSS;
 - 📫 LinkedIn and Instagram are available above. <br>
 
 
