@@ -2,7 +2,7 @@
 
 # 💫 About me:
 
-- 🌱 I’m currently learning R and PoweQuery;
+- 🌱 I’m currently learning R and Tableau;
 - 😄 Pronouns: She/Her;
 - ⚡ Fun fact: I love animals and I"m a vegetarian 😄;
 - 🌱 PowerBI, Python, Excel, R, Tableau, HTML5, CSS;
