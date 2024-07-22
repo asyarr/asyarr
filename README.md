@@ -1,4 +1,4 @@
-### Hi there my name is Raysa 👋
+### Hi there, my name is Raysa 👋
 
 # 💫 About me:
 
